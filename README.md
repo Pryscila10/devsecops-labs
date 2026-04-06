@@ -12,7 +12,7 @@ Este repositório reúne práticas hands-on para vivenciar a cultura **DevSecOps
 ## 📂 Índice de Laboratórios
 
 ### Lab 01 — Fundamentos & Cultura
-*   **Prática:** [Semgrep + Gitleaks no GitHub Codespaces](./lab-01-fundamentos-cultura/pratica-threat-modeling.md)
+*   **Prática:** [Semgrep + Gitleaks no GitHub Codespaces](./lab-01-fundamentos-cultura/pratica-secrets-codespaces.md)
 
 ### Lab 02 — Secure Coding & SAST
 *   **Prática (Codespaces):** [Análise Estática com Semgrep e Gitleaks]*(Em breve)*
